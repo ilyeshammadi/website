@@ -3,6 +3,7 @@ date: '2026-05-01'
 draft: false
 title: 'Hello, World'
 summary: 'First post — a quick intro to what this site is about.'
+tags: ["hello-world"]
 ---
 
 This is the first post on my site.
