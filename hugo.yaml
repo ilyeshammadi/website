@@ -1,6 +1,6 @@
 baseURL: https://example.org/
 locale: en-us
-title: Ilyes Hammadi
+title: My personal website
 theme: ["PaperMod"]
 
 enableRobotsTXT: true
@@ -78,10 +78,23 @@ params:
     - name: github
       url: "https://github.com/ilyeshammadi"
 
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
