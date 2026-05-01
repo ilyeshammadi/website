@@ -2,51 +2,12 @@
 title: "About"
 layout: "about"
 url: "/about/"
-summary: "About Ilyes Hammadi"
+summary: "About Me"
 ---
 
 ## Hey, I'm Ilyes
 
-I'm a Software Engineer based in [City, Country]. I work on [what you work on — e.g. backend systems, distributed infrastructure, web applications].
+I'm a **Software Engineer** based in the Amsterdam area, Netherlands, passionate about `backend systems`, `high availability`, and building `reliable infrastructure`. I enjoy exploring how things work under the hood — from scalable architectures and distributed systems to networking, hardware, and self-hosted homelab setups.
 
-This site is where I write about things I'm learning, building, or thinking about.
+This site is where I share what I’m learning, building, and thinking about — whether it’s backend engineering, infrastructure, performance, homelabbing, or the technologies that power modern systems.
 
----
-
-## What I Do
-
-I specialize in [your main area — e.g. backend development, systems programming, full-stack web]. I enjoy working on problems that involve [e.g. performance, reliability, developer tooling].
-
-Currently I'm working on [current role or project].
-
----
-
-## Skills
-
-**Languages:** [e.g. Go, Python, Rust, TypeScript]
-
-**Tools & Technologies:** [e.g. Linux, Docker, Kubernetes, PostgreSQL]
-
-**Interests:** [e.g. distributed systems, compilers, open-source]
-
----
-
-## Experience
-
-**[Job Title]** — [Company] *(Year – Present)*
-Brief description of what you did or built.
-
-**[Job Title]** — [Company] *(Year – Year)*
-Brief description of what you did or built.
-
----
-
-## Education
-
-**[Degree]** — [University] *(Year)*
-
----
-
-## Contact
-
-The best way to reach me is via [GitHub](https://github.com/ilyeshammadi) or by email at [your@email.com].
